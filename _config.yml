@@ -1,0 +1,31 @@
+name: king.ky
+layout_spectrum: 0.3427141807315258
+typography_spectrum: 0.3461600966634054
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  brandStrength: 0.7581446514292215
+  lightness: 0.29144103574618396
+  saturation: 0.6889570692042961
+  rhythmicContrast: 0.3288720020494442
+title: ''
+description: ''
+author:
+  name: Ryan allen
+  url: 'http://slang.one'
+  email: ry4n4ll3n@slang.one
+content_rating:
+  adult: false
+navigation:
+  - name: SlangHouse
+    url: 'http://slang.one'
+    type: external
+content: []
+github: true
